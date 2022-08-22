@@ -32,7 +32,7 @@ This repository is for self tested customized modpack.
   - Lithium https://modrinth.com/mod/lithium  
   - Sodium  https://modrinth.com/mod/sodium  
   
-  Below are the optional mods but better to have.  
+  Below are the optional mods but recommended.  
   - Mod Menu  https://modrinth.com/mod/modmenu  
   - LazyDFU https://modrinth.com/mod/lazydfu  
   - Cloth Config API  https://modrinth.com/mod/cloth-config  
@@ -59,10 +59,9 @@ This repository is for self tested customized modpack.
 #### 3. Enhanced tools mods  
   These mods are basic enhanced tools to help you easier to paly.  
   - AutoFish  https://www.curseforge.com/minecraft/mc-mods/autofish  
-  - Expanded Storage  https://www.curseforge.com/minecraft/mc-mods/expanded-storage  
-    - This mod maybe have relation with below mods  
-    - Ellemes' Container Library  https://www.curseforge.com/minecraft/mc-mods/ellemes-container-library  
-    - REI https://modrinth.com/mod/roughly-enough-items  
+  - Expanded Storage  https://www.curseforge.com/minecraft/mc-mods/expanded-storage    
+  - Ellemes' Container Library  https://www.curseforge.com/minecraft/mc-mods/ellemes-container-library  
+  - REI https://modrinth.com/mod/roughly-enough-items  
   - Durability Viewer https://modrinth.com/mod/durabilityviewer  
   - Traveler's Backpack https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric  
     - If error happened, please try to get below mod also  
@@ -77,4 +76,3 @@ This repository is for self tested customized modpack.
 
 ## Declaration
   This collection is all coming from the hard-working developers, I will also mention their home page or CurseForge page, there you will find their donation channel.
-  And you are also welcomed to modify or share this collection to anyone or anywhere.
