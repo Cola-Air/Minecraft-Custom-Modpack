@@ -73,7 +73,7 @@ This repository is for self tested customized modpack.
   - Xaero Worldmap  https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map  
   
 #### 4. Other enhanced mods  
-  - IMBlocker https://modrinth.com/mod/imblocker/versions  
+  - IMBlocker https://modrinth.com/mod/imblocker  
 
 ## Declaration
   This collection is all coming from the hard-working developers, I will also mention their home page or CurseForge page, there you will find their donation channel.
