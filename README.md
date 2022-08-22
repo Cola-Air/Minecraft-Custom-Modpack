@@ -14,9 +14,9 @@ This repository is for self tested customized modpack.
 ## Basic game version
   Current use **1.19.2**.
   
-## Mod list
-   Mods in list already tested locally, for last four days running, no error, no blink, no crash.
-   Please refer to the README.md under the mods folder to find the details infomation.
+## Collection list
+   Mods/Shaderpacks/Resourcepacks in list already tested locally, for last four days running, no error, no blink, no crash.
+   Please refer to the README.md under the seperate folder to find the details infomation.
    Most of them are basically enhanced the visual and handle experience, only Expanded Storage, Autofish and Travelor's Backpack kind of **cheating** in game.
 
 ## Declaration
