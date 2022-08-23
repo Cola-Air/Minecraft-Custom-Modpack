@@ -76,5 +76,18 @@
   - 如下mod可以在使用中文输入法的同时玩游戏而不会导致卡键
   - IMBlocker https://modrinth.com/mod/imblocker  
 
+### 光影包  
+
+#### 推荐  
+  Sildur's Vibrant shaders是Iris官方推荐光影包.  
+  https://sildurs-shaders.github.io/  
+
+#### 其他光影包
+  以下光影包也能在Iris下完美运行.  
+  - SEUS Renewed https://sonicether.com/shaders/download/renewed-v1-0-1/  
+  - BSL https://www.bslshaders.com/download/  
+  - Chocapic 13 https://www.curseforge.com/minecraft/customization/chocapic13-shaders  
+  - Complementary https://www.complementary.dev/ 
+
 ## 说明
   此集合的链接中几乎都包含原作者的捐献通道，他们用爱发电，我们尽量支持.
