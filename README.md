@@ -1,9 +1,9 @@
-# Minecraft-Custom-Modpack
-This repository is for self tested customized modpack.
+# Minecraft-Mod-Collection
+This repository is for self tested customized mod collection.
 
 ## Background
   I am kind of old gamer for Minecraft, just want the original survival experience and don't need the fancy mod that may made me invincible.  
-  This is why I create this *modpack* ( maybe this is not a modpack, just a mod collection ).
+  This is why I create this mod collection.
 
 ## PC configuration
   - *CPU: AMD 5600X*
@@ -15,7 +15,7 @@ This repository is for self tested customized modpack.
   Current use **1.19.2**.
   
 ## Collection list
-   Mods/Shaderpacks/Resourcepacks in list already tested locally, for last four days running, no error, no blink, no crash.  
+   Mods/Shaderpacks in list already tested locally, for last four days running, no error, no blink, no crash.  
    Most of them are basically enhanced the visual and handle experience, only Expanded Storage, Autofish and Travelor's Backpack kind of **cheating** in game.  
    **While you download them, please make sure download the correct version!!!**
 
@@ -73,6 +73,20 @@ This repository is for self tested customized modpack.
   
 #### 4. Other enhanced mods  
   - IMBlocker https://modrinth.com/mod/imblocker  
+  
+
+### Shaderpacks  
+
+#### Recommendation  
+  The most recommended shaderpack is Sildur's Vibrant shaders which is the most compatibale shader for Iris.  
+  https://sildurs-shaders.github.io/  
+
+#### Other Shaders
+  Below Shader also able to run perfectly via Iris.  
+  - SEUS Renewed https://sonicether.com/shaders/download/renewed-v1-0-1/  
+  - BSL https://www.bslshaders.com/download/  
+  - Chocapic 13 https://www.curseforge.com/minecraft/customization/chocapic13-shaders  
+  - Complementary https://www.complementary.dev/ 
 
 ## Declaration
   This collection is all coming from the hard-working developers, I will also mention their home page or CurseForge page, there you will find their donation channel.
